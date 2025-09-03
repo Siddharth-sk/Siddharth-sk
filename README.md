@@ -1,16 +1,24 @@
-## Hi there 👋
+# Welcome to My Space  
 
-<!--
-**Siddharth-sk/Siddharth-sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Siddharth  
+A Class 11 student preparing for JEE 2027 and exploring the world of programming.  
+Right now, I’m building my foundation with Python basics and slowly moving towards AI and Fullstack.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m Learning
+- Python basics (variables, loops, functions)  
+- Problem-solving through small programs  
+- Understanding how coding connects to the real world  
+
+---
+
+## My Goals
+- Get strong at Python before diving into advanced topics  
+- Learn AI and Web Development step by step  
+- Build projects that solve real-world problems  
+
+---
+
+## Connect with Me
+- GMail: siddharthsenthilkumar4@gmail.com
