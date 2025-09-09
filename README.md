@@ -3,6 +3,7 @@
 Hi, I’m Siddharth  
 A Class 11 student preparing for JEE 2027 and exploring the world of programming.  
 Right now, I’m building my foundation with Python basics and slowly moving towards AI and Fullstack.  
+And also I am a Beginner to GitHub
 
 ---
 
